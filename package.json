@@ -1,0 +1,23 @@
+{
+  "name": "genai",
+  "version": "1.0.0",
+  "description": "LLM",
+  "keywords": [
+    "LLM"
+  ],
+  "homepage": "https://github.com/mdakram2002/GenAI#readme",
+  "bugs": {
+    "url": "https://github.com/mdakram2002/GenAI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdakram2002/GenAI.git"
+  },
+  "license": "ISC",
+  "author": "Md Akram",
+  "type": "commonjs",
+  "main": "LLM.js",
+  "scripts": {
+    "test": "npm run build"
+  }
+}
